@@ -1,6 +1,6 @@
 # PluggedIn24
 
-A new revolutionar education mobile app.
+A new revolutionary education mobile app.
 
 # OurIdea
 
